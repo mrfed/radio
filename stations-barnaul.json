@@ -1,0 +1,84 @@
+{
+    "nashe": {
+        "name": "Наше Радио (Барнаул)",
+        "site": "https://www.nashe.ru/",
+        "logo": "img/nashe.jpg",
+        "logo_webp": "img/nashe.webp",
+        "position": "1",
+        "category": "fed",
+        "partner": "0",
+        "meta": "meta",
+        "json_delay": "38",
+        "url_hi": "https://cast.fmprod.ru/nashe_brn"     
+  },
+    "avtoradio": {
+        "name": "Авторадио (Барнаул)",
+        "site": "http://www.avtoradio.ru/",
+        "logo": "img/avtoradio.jpg",
+        "logo_webp": "img/avtoradio.webp",
+        "position": "2",
+        "category": "fed",
+        "partner": "0",
+        "meta": "meta",
+        "json_delay": "28",
+        "url_hi": "https://cast.fmprod.ru/auto_bsk"
+  },
+    "bfm": {
+        "name": "Бизнес FM (Барнаул)",
+        "site": "https://www.bfm.ru/",
+        "logo": "img/bfm.jpg",
+        "logo_webp": "img/bfm.webp",
+        "position": "5",
+        "category": "fed",
+        "partner": "0",
+        "url_hi": "https://cast.fmprod.ru/bfm_brn"
+	},
+    "shanson": {
+        "name": "Радио Шансон (Барнаул)",
+        "site": "http://radioshanson.fm/",
+        "logo": "img/shanson.jpg",
+        "logo_webp": "img/shanson.webp",
+        "position": "6",
+        "category": "fed",
+        "partner": "0",
+        "meta": "meta",
+        "json_delay": "25",
+        "url_hi": "https://cast.fmprod.ru/chanson_brn"
+    },
+    "comedy": {
+        "name": "Comedy Radio (Барнаул)",
+        "site": "http://comedy-radio.ru/",
+        "logo": "img/comedy.jpg",
+        "logo_webp": "img/comedy.webp",
+        "position": "7",
+        "category": "fed",
+        "partner": "0",
+        "meta": "meta",
+        "json_delay": "28",
+        "url_hi": "https://cast.fmprod.ru/comedy_brn"
+	},
+    "dacha": {
+        "name": "Радио Дача (Барнаул)",
+        "site": "https://bestfm.ru/",
+        "logo": "img/dacha.jpg",
+        "logo_webp": "img/dacha.webp",
+        "position": "8",
+        "category": "fed",
+        "partner": "0",
+        "meta": "meta",
+        "json_delay": "32",
+        "url_hi": "https://cast.fmprod.ru/dacha_brn"
+	},
+	    "dfm": {
+        "name": "DFM (Барнаул)",
+        "site": "http://www.dfm.ru/",
+        "logo": "img/dfm.jpg",
+        "logo_webp": "img/dfm.webp",
+        "position": "10",
+        "category": "fed",
+        "partner": "0",
+        "meta": "meta",
+        "json_delay": "18",
+        "url_hi": "https://cast.fmprod.ru/dfm_brn"
+    }
+}
