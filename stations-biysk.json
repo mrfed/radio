@@ -1,0 +1,38 @@
+{
+    "avtoradio": {
+        "name": "Авторадио (Бийск)",
+        "site": "http://www.avtoradio.ru/",
+        "logo": "img/avtoradio.jpg",
+        "logo_webp": "img/avtoradio.webp",
+        "position": "2",
+        "category": "fed",
+        "partner": "0",
+        "meta": "meta",
+        "json_delay": "28",
+        "url_hi": "https://cast.fmprod.ru/auto_bsk"
+  },
+    "dacha": {
+        "name": "Радио Дача (Бийск)",
+        "site": "https://bestfm.ru/",
+        "logo": "img/dacha.jpg",
+        "logo_webp": "img/dacha.webp",
+        "position": "9",
+        "category": "fed",
+        "partner": "0",
+        "meta": "meta",
+        "json_delay": "32",
+        "url_hi": "https://cast.fmprod.ru/dacha_bsk"
+	},
+	    "dfm": {
+        "name": "DFM (Бийск)",
+        "site": "http://www.dfm.ru/",
+        "logo": "img/dfm.jpg",
+        "logo_webp": "img/dfm.webp",
+        "position": "10",
+        "category": "fed",
+        "partner": "0",
+        "meta": "meta",
+        "json_delay": "18",
+        "url_hi": "https://cast.fmprod.ru/dfm_bsk"
+    }
+}
