@@ -21,7 +21,7 @@
         "partner": "0",
         "meta": "meta",
         "json_delay": "28",
-        "url_hi": "https://cast.fmprod.ru/auto_bsk"
+        "url_hi": "https://radiobarnaul.ru:4433/play"
   },
     "bfm": {
         "name": "Бизнес FM (Барнаул)",
