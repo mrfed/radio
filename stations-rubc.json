@@ -1,0 +1,87 @@
+{
+	"europaplus": {
+        "name": "1-Европа плюс (Рубцовск) 87.5",
+        "site": "http://www.europaplus.ru/",
+        "logo": "img/europaplus.jpg",
+        "logo_webp": "img/europaplus.webp",
+        "position": "20",
+        "category": "fed",
+        "partner": "0",
+        "meta": "meta",
+        "json_delay": "25",
+        "url_hi": "https://cast.fmprod.ru/europa_rbc"
+	},
+	"rusradio": {
+        "name": "2-Русское радио (Рубцовск) 103.2",
+        "site": "http://rusradio.ru/",
+        "logo": "img/rusradio.jpg",
+        "logo_webp": "img/rusradio.webp",
+        "position": "50",
+        "category": "fed",
+        "partner": "0",
+        "meta": "meta",
+        "json_delay": "20",
+        "url_hi": "http://178.248.87.50:8000/R-radio.m3u"
+	},
+	"retro": {
+        "name": "3-Ретро FM (Рубцовск) 103.6",
+        "site": "http://retrofm.ru/",
+        "logo": "img/retro.jpg",
+        "logo_webp": "img/retro.webp",
+        "position": "48",
+        "category": "fed",
+        "partner": "0",
+        "meta": "meta",
+        "json_delay": "25",
+        "url_hi": "https://cast.fmprod.ru/retro_rbc"
+	},
+ 	"avtoradio": {
+        "name": "4-Авторадио (Рубцовск) 104.1",
+        "site": "http://www.avtoradio.ru/",
+        "logo": "img/avtoradio.jpg",
+        "logo_webp": "img/avtoradio.webp",
+        "position": "2",
+        "category": "fed",
+        "partner": "0",
+        "meta": "meta",
+        "json_delay": "28",
+        "url_hi": "https://cast.fmprod.ru/avto_rbc"
+	},
+	"record": {
+        "name": "5-Радио Record (Рубцовск) 104.7",
+        "site": "http://www.radiorecord.ru/",
+        "logo": "img/record.jpg",
+        "logo_webp": "img/record.webp",
+        "position": "32",
+        "category": "fed",
+        "partner": "0",
+        "meta": "meta",
+        "json_delay": "25",
+        "url_hi": "http://178.248.87.50:8000/Record.m3u"
+    },
+	
+    "iskatel": {
+        "name": "6-Радио Искатель (Рубцовск) 105.1",
+        "site": "https://radioiskatel.ru/",
+        "logo": "img/iskatel.jpg",
+        "logo_webp": "img/iskatel.webp",
+        "position": "38",
+        "category": "fed",
+        "partner": "0",
+        "meta": "meta",
+        "json_delay": "25",
+        "url_hi": "https://cast.fmprod.ru/iskatel_rbc"
+    },
+   "hitfm": {
+        "name": "7-Хит FM (Рубцовск) 107.5",
+        "site": "http://hitfm.ru/",
+        "logo": "img/hitfm.jpg",
+        "logo_webp": "img/hitfm.webp",
+        "position": "53",
+        "category": "fed",
+        "partner": "0",
+        "meta": "meta",
+        "json_delay": "25",
+        "url_hi": "https://cast.fmprod.ru/hitfm_rbc"
+	}
+}
