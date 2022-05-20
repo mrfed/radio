@@ -1,6 +1,6 @@
 {
     "avtoradio": {
-        "name": "Авторадио (Бийск)",
+        "name": "Авторадио (Бийск) 101.9",
         "site": "http://www.avtoradio.ru/",
         "logo": "img/avtoradio.jpg",
         "logo_webp": "img/avtoradio.webp",
@@ -12,7 +12,7 @@
         "url_hi": "https://cast.fmprod.ru/auto_bsk"
   },
     "dacha": {
-        "name": "Радио Дача (Бийск)",
+        "name": "Радио Дача (Бийск) 107.8",
         "site": "https://bestfm.ru/",
         "logo": "img/dacha.jpg",
         "logo_webp": "img/dacha.webp",
@@ -24,7 +24,7 @@
         "url_hi": "https://cast.fmprod.ru/dacha_bsk"
 	},
 	    "dfm": {
-        "name": "DFM (Бийск)",
+        "name": "DFM (Бийск) 106.6",
         "site": "http://www.dfm.ru/",
         "logo": "img/dfm.jpg",
         "logo_webp": "img/dfm.webp",
@@ -36,7 +36,7 @@
         "url_hi": "https://cast.fmprod.ru/dfm_bsk"
     },
 	"europaplus": {
-        "name": "Европа плюс (Бийск)",
+        "name": "Европа плюс (Бийск) 102.5",
         "site": "http://www.europaplus.ru/",
         "logo": "img/europaplus.jpg",
         "logo_webp": "img/europaplus.webp",
@@ -48,7 +48,7 @@
         "url_hi": "https://cast.fmprod.ru/europa_bsk"
      },
 	"rusradio": {
-        "name": "Русское радио (Бийск)",
+        "name": "Русское радио (Бийск) 101.3",
         "site": "http://rusradio.ru/",
         "logo": "img/rusradio.jpg",
         "logo_webp": "img/rusradio.webp",
@@ -60,7 +60,7 @@
         "url_hi": "https://cast.fmprod.ru/rus_bsk"
     },
     "mir": {
-        "name": "Радио МИР (Бийск)",
+        "name": "Радио МИР (Бийск) 90.8",
         "site": "http://radiomir.fm/",
         "logo": "img/mir.jpg",
         "logo_webp": "img/mir.webp",
@@ -72,7 +72,7 @@
         "url_hi": "https://cast.fmprod.ru/mir_bsk"
     },
     "retro": {
-        "name": "Ретро FM (Бийск)",
+        "name": "Ретро FM (Бийск) 103.7",
         "site": "http://retrofm.ru/",
         "logo": "img/retro.jpg",
         "logo_webp": "img/retro.webp",
@@ -83,20 +83,8 @@
         "json_delay": "25",
         "url_hi": "https://cast.fmprod.ru/retro_bsk"
     },
-    "novoe": {
-        "name": "Новое радио (Бийск)",
-        "site": "http://newradio.ru/",
-        "logo": "img/novoe.jpg",
-        "logo_webp": "img/novoe.webp",
-        "position": "27",
-        "category": "fed",
-        "partner": "0",
-        "meta": "meta",
-        "json_delay": "25",
-        "url_hi": "https://cast.fmprod.ru/novoe_brn"
-    },
      "love": {
-        "name": "Love Radio (Бийск)",
+        "name": "Love Radio (Бийск) 105.7",
         "site": "http:/loveradio.ru/",
         "logo": "img/love.jpg",
         "logo_webp": "img/love.webp",
@@ -108,7 +96,7 @@
         "url_hi": "https://cast.fmprod.ru/love_bsk"
      },
    "humor": {
-        "name": "Юмор FM (Бийск)",
+        "name": "Юмор FM (Бийск) 103.1",
         "site": "http://www.veseloeradio.ru/",
         "logo": "img/humor.jpg",
         "logo_webp": "img/humor.webp",
@@ -120,7 +108,7 @@
         "url_hi": "https://cast.fmprod.ru/humor_bsk"
     },
     "dorozhnoe": {
-        "name": "Дорожное радио (Бийск)",
+        "name": "Дорожное радио (Бийск) 106.2",
         "site": "https://dorognoe.ru/",
         "logo": "img/dorozhnoe.jpg",
         "logo_webp": "img/dorozhnoe.webp",
@@ -132,7 +120,7 @@
         "url_hi": "https://cast.fmprod.ru/dorojnoe_bsk"
     },
     "rrd": {
-        "name": "Радио родных дорог (Бийск)",
+        "name": "Радио родных дорог (Бийск) 100.9",
         "site": "http://www.radiord.ru/",
         "logo": "img/rrd.jpg",
         "logo_webp": "img/rrd.webp",
