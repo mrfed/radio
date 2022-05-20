@@ -21,7 +21,7 @@
         "partner": "0",
         "meta": "meta",
         "json_delay": "20",
-        "url_hi": "https://cast.fmprod.ru/rus_rbc"
+        "url_hi": "http://178.248.87.50:8000/R-radio.m3u"
 	},
 	"retro": {
         "name": "3-Ретро FM (Рубцовск) 103.6",
@@ -45,7 +45,7 @@
         "partner": "0",
         "meta": "meta",
         "json_delay": "28",
-        "url_hi": "https://cast.fmprod.ru/auto_rbc"
+        "url_hi": "https://cast.fmprod.ru/avto_rbc"
 	},
 	"record": {
         "name": "5-Радио Record (Рубцовск) 104.7",
