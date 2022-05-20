@@ -90,10 +90,7 @@
         "position": "114",
         "category": "reg",
         "partner": "1",
-        "xtra_low": "https://reg.fmplay.ru:8000/sibir-16.aac",
-        "url_low": "https://reg.fmplay.ru:8000/sibir-24.aac",
-        "url": "https://reg.fmplay.ru:8000/sibir-32.aac",
-        "url_hi": "https://reg.fmplay.ru:8000/sibir-48.aac"
+        "url_hi": "http://stream-2.radiosibir.ru:8090/biysk_RS"
     },
 		"love": {
         "name": "11-Love Radio (Бийск) 105.7",
