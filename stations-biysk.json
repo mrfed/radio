@@ -1,54 +1,29 @@
-{
-    "avtoradio": {
-        "name": "Авторадио (Бийск) 101.9",
-        "site": "http://www.avtoradio.ru/",
-        "logo": "img/avtoradio.jpg",
-        "logo_webp": "img/avtoradio.webp",
-        "position": "2",
-        "category": "fed",
-        "partner": "0",
-        "meta": "meta",
-        "json_delay": "28",
-        "url_hi": "https://cast.fmprod.ru/auto_bsk"
-  },
-    "dacha": {
-        "name": "Радио Дача (Бийск) 107.8",
-        "site": "https://bestfm.ru/",
-        "logo": "img/dacha.jpg",
-        "logo_webp": "img/dacha.webp",
-        "position": "9",
-        "category": "fed",
-        "partner": "0",
-        "meta": "meta",
-        "json_delay": "32",
-        "url_hi": "https://cast.fmprod.ru/dacha_bsk"
-	},
-	    "dfm": {
-        "name": "DFM (Бийск) 106.6",
-        "site": "http://www.dfm.ru/",
-        "logo": "img/dfm.jpg",
-        "logo_webp": "img/dfm.webp",
-        "position": "10",
-        "category": "fed",
-        "partner": "0",
-        "meta": "meta",
-        "json_delay": "18",
-        "url_hi": "https://cast.fmprod.ru/dfm_bsk"
-    },
-	"europaplus": {
-        "name": "Европа плюс (Бийск) 102.5",
-        "site": "http://www.europaplus.ru/",
-        "logo": "img/europaplus.jpg",
-        "logo_webp": "img/europaplus.webp",
-        "position": "20",
+{	 "mir": {
+        "name": "2-Радио МИР (Бийск) 90.8",
+        "site": "http://radiomir.fm/",
+        "logo": "img/mir.jpg",
+        "logo_webp": "img/mir.webp",
+        "position": "41",
         "category": "fed",
         "partner": "0",
         "meta": "meta",
         "json_delay": "25",
-        "url_hi": "https://cast.fmprod.ru/europa_bsk"
-     },
-	"rusradio": {
-        "name": "Русское радио (Бийск) 101.3",
+        "url_hi": "https://cast.fmprod.ru/mir_bsk"
+	},
+     "rrd": {
+        "name": "3-Радио родных дорог (Бийск) 100.9",
+        "site": "http://www.radiord.ru/",
+        "logo": "img/rrd.jpg",
+        "logo_webp": "img/rrd.webp",
+        "position": "44",
+        "category": "fed",
+        "partner": "0",
+        "meta": "meta",
+        "json_delay": "25",
+        "url_hi": "https://cast.fmprod.ru/rrd_bsk"
+	},
+		"rusradio": {
+        "name": "4-Русское радио (Бийск) 101.3",
         "site": "http://rusradio.ru/",
         "logo": "img/rusradio.jpg",
         "logo_webp": "img/rusradio.webp",
@@ -59,20 +34,44 @@
         "json_delay": "20",
         "url_hi": "https://cast.fmprod.ru/rus_bsk"
     },
-    "mir": {
-        "name": "Радио МИР (Бийск) 90.8",
-        "site": "http://radiomir.fm/",
-        "logo": "img/mir.jpg",
-        "logo_webp": "img/mir.webp",
-        "position": "41",
+		"avtoradio": {
+        "name": "5-Авторадио (Бийск) 101.9",
+        "site": "http://www.avtoradio.ru/",
+        "logo": "img/avtoradio.jpg",
+        "logo_webp": "img/avtoradio.webp",
+        "position": "2",
+        "category": "fed",
+        "partner": "0",
+        "meta": "meta",
+        "json_delay": "28",
+        "url_hi": "https://cast.fmprod.ru/auto_bsk"
+	},
+	"europaplus": {
+        "name": "6-Европа плюс (Бийск) 102.5",
+        "site": "http://www.europaplus.ru/",
+        "logo": "img/europaplus.jpg",
+        "logo_webp": "img/europaplus.webp",
+        "position": "20",
         "category": "fed",
         "partner": "0",
         "meta": "meta",
         "json_delay": "25",
-        "url_hi": "https://cast.fmprod.ru/mir_bsk"
-    },
+        "url_hi": "https://cast.fmprod.ru/europa_bsk"
+     },
+	"humor": {
+        "name": "7-Юмор FM (Бийск) 103.1",
+        "site": "http://www.veseloeradio.ru/",
+        "logo": "img/humor.jpg",
+        "logo_webp": "img/humor.webp",
+        "position": "55",
+        "category": "fed",
+        "partner": "0",
+        "meta": "meta",
+        "json_delay": "25",
+        "url_hi": "https://cast.fmprod.ru/humor_bsk"
+	},
     "retro": {
-        "name": "Ретро FM (Бийск) 103.7",
+        "name": "8-Ретро FM (Бийск) 103.7",
         "site": "http://retrofm.ru/",
         "logo": "img/retro.jpg",
         "logo_webp": "img/retro.webp",
@@ -83,8 +82,21 @@
         "json_delay": "25",
         "url_hi": "https://cast.fmprod.ru/retro_bsk"
     },
-     "love": {
-        "name": "Love Radio (Бийск) 105.7",
+	   "sibir": {
+        "name": "10-Радио Сибирь (Бийск) 105.3",
+        "site": "",
+        "logo": "img/sibir.jpg",
+        "logo_webp": "img/sibir.webp",
+        "position": "114",
+        "category": "reg",
+        "partner": "1",
+        "xtra_low": "https://reg.fmplay.ru:8000/sibir-16.aac",
+        "url_low": "https://reg.fmplay.ru:8000/sibir-24.aac",
+        "url": "https://reg.fmplay.ru:8000/sibir-32.aac",
+        "url_hi": "https://reg.fmplay.ru:8000/sibir-48.aac"
+    },
+		"love": {
+        "name": "11-Love Radio (Бийск) 105.7",
         "site": "http:/loveradio.ru/",
         "logo": "img/love.jpg",
         "logo_webp": "img/love.webp",
@@ -95,20 +107,8 @@
         "json_delay": "25",
         "url_hi": "https://cast.fmprod.ru/love_bsk"
      },
-   "humor": {
-        "name": "Юмор FM (Бийск) 103.1",
-        "site": "http://www.veseloeradio.ru/",
-        "logo": "img/humor.jpg",
-        "logo_webp": "img/humor.webp",
-        "position": "55",
-        "category": "fed",
-        "partner": "0",
-        "meta": "meta",
-        "json_delay": "25",
-        "url_hi": "https://cast.fmprod.ru/humor_bsk"
-    },
     "dorozhnoe": {
-        "name": "Дорожное радио (Бийск) 106.2",
+        "name": "12-Дорожное радио (Бийск) 106.2",
         "site": "https://dorognoe.ru/",
         "logo": "img/dorozhnoe.jpg",
         "logo_webp": "img/dorozhnoe.webp",
@@ -119,16 +119,28 @@
         "json_delay": "25",
         "url_hi": "https://cast.fmprod.ru/dorojnoe_bsk"
     },
-    "rrd": {
-        "name": "Радио родных дорог (Бийск) 100.9",
-        "site": "http://www.radiord.ru/",
-        "logo": "img/rrd.jpg",
-        "logo_webp": "img/rrd.webp",
-        "position": "44",
+	"dfm": {
+        "name": "13-DFM (Бийск) 106.6",
+        "site": "http://www.dfm.ru/",
+        "logo": "img/dfm.jpg",
+        "logo_webp": "img/dfm.webp",
+        "position": "10",
         "category": "fed",
         "partner": "0",
         "meta": "meta",
-        "json_delay": "25",
-        "url_hi": "https://cast.fmprod.ru/rrd_bsk"
+        "json_delay": "18",
+        "url_hi": "https://cast.fmprod.ru/dfm_bsk"
+    },  
+		"dacha": {
+        "name": "15-Радио Дача (Бийск) 107.8",
+        "site": "https://bestfm.ru/",
+        "logo": "img/dacha.jpg",
+        "logo_webp": "img/dacha.webp",
+        "position": "9",
+        "category": "fed",
+        "partner": "0",
+        "meta": "meta",
+        "json_delay": "32",
+        "url_hi": "https://cast.fmprod.ru/dacha_bsk"
     }
 }
