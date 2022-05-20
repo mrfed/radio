@@ -1,6 +1,6 @@
 {
     "nashe": {
-        "name": "Наше Радио (Барнаул) 106.4",
+        "name": "22-Наше Радио (Барнаул) 106.4",
         "site": "https://www.nashe.ru/",
         "logo": "img/nashe.jpg",
         "logo_webp": "img/nashe.webp",
@@ -12,7 +12,7 @@
         "url_hi": "https://cast.fmprod.ru/nashe_brn"     
   },
     "avtoradio": {
-        "name": "Авторадио (Барнаул) 103.9",
+        "name": "17-Авторадио (Барнаул) 103.9",
         "site": "http://www.avtoradio.ru/",
         "logo": "img/avtoradio.jpg",
         "logo_webp": "img/avtoradio.webp",
@@ -24,7 +24,7 @@
         "url_hi": "https://radiobarnaul.ru:4433/play"
   },
     "bfm": {
-        "name": "Бизнес FM (Барнаул) 90.7",
+        "name": "7-Бизнес FM (Барнаул) 90.7",
         "site": "https://www.bfm.ru/",
         "logo": "img/bfm.jpg",
         "logo_webp": "img/bfm.webp",
@@ -34,7 +34,7 @@
         "url_hi": "https://cast.fmprod.ru/bfm_brn"
 	},
     "shanson": {
-        "name": "Радио Шансон (Барнаул) 101.9",
+        "name": "13-Радио Шансон (Барнаул) 101.9",
         "site": "http://radioshanson.fm/",
         "logo": "img/shanson.jpg",
         "logo_webp": "img/shanson.webp",
@@ -46,7 +46,7 @@
         "url_hi": "https://cast.fmprod.ru/chanson_brn"
     },
     "comedy": {
-        "name": "Comedy Radio (Барнаул) 102.9",
+        "name": "15-Comedy Radio (Барнаул) 102.9",
         "site": "http://comedy-radio.ru/",
         "logo": "img/comedy.jpg",
         "logo_webp": "img/comedy.webp",
@@ -58,7 +58,7 @@
         "url_hi": "https://cast.fmprod.ru/comedy_brn"
 	},
     "dacha": {
-        "name": "Радио Дача (Барнаул) 107.4",
+        "name": "24-Радио Дача (Барнаул) 107.4",
         "site": "https://bestfm.ru/",
         "logo": "img/dacha.jpg",
         "logo_webp": "img/dacha.webp",
@@ -70,7 +70,7 @@
         "url_hi": "https://cast.fmprod.ru/dacha_brn"
 	},
      "dfm": {
-        "name": "DFM (Барнаул) 102.4",
+        "name": "14-DFM (Барнаул) 102.4",
         "site": "http://www.dfm.ru/",
         "logo": "img/dfm.jpg",
         "logo_webp": "img/dfm.webp",
@@ -82,7 +82,7 @@
         "url_hi": "https://cast.fmprod.ru/dfm_brn"
     },
 	"europaplus": {
-        "name": "Европа Плюс (Барнаул) 104.9",
+        "name": "19-Европа Плюс (Барнаул) 104.9",
         "site": "http://www.europaplus.ru/",
         "logo": "img/europaplus.jpg",
         "logo_webp": "img/europaplus.webp",
@@ -94,7 +94,7 @@
         "url_hi": "https://cast.fmprod.ru/europa_brn"
      },
 	"rusradio": {
-        "name": "Русское Радио (Барнаул) 105.4",
+        "name": "20-Русское Радио (Барнаул) 105.4",
         "site": "http://rusradio.ru/",
         "logo": "img/rusradio.jpg",
         "logo_webp": "img/rusradio.webp",
@@ -106,7 +106,7 @@
         "url_hi": "https://cast.fmprod.ru/rus_brn"
     },
     "mir": {
-        "name": "Радио МИР (Барнаул) 90.2",
+        "name": "6-Радио МИР (Барнаул) 90.2",
         "site": "http://radiomir.fm/",
         "logo": "img/mir.jpg",
         "logo_webp": "img/mir.webp",
@@ -118,7 +118,7 @@
         "url_hi": "https://cast.fmprod.ru/mir_brn"
     },
     "retro": {
-        "name": "Ретро FM (Барнаул) 104.4",
+        "name": "18-Ретро FM (Барнаул) 104.4",
         "site": "http://retrofm.ru/",
         "logo": "img/retro.jpg",
         "logo_webp": "img/retro.webp",
@@ -130,7 +130,7 @@
         "url_hi": "https://cast.fmprod.ru/retro_brn"
     },
     "novoe": {
-        "name": "Новое Радио (Барнаул) 91.1",
+        "name": "8-Новое Радио (Барнаул) 91.1",
         "site": "http://newradio.ru/",
         "logo": "img/novoe.jpg",
         "logo_webp": "img/novoe.webp",
@@ -142,7 +142,7 @@
         "url_hi": "https://cast.fmprod.ru/novoe_brn"
     },
      "love": {
-        "name": "Love Radio (Барнаул) 91.5",
+        "name": "9-Love Radio (Барнаул) 91.5",
         "site": "http:/loveradio.ru/",
         "logo": "img/love.jpg",
         "logo_webp": "img/love.webp",
@@ -154,7 +154,7 @@
         "url_hi": "https://cast.fmprod.ru/love_brn"
       },
      "heartfm": {
-        "name": "Heart FM (Барнаул) 105.9",
+        "name": "21-Heart FM (Барнаул) 105.9",
         "site": "",
         "logo": "img/heartfm.jpg",
         "logo_webp": "img/heartfm.webp",
@@ -164,7 +164,7 @@
         "url_hi": "http://icecast.gtrk22.ru:8000/heartfm"
     },
  "nrj": {
-        "name": "ENERGY (Барнаул) 87.5",
+        "name": "1-ENERGY (Барнаул) 87.5",
         "site": "http://www.energyfm.ru/",
         "logo": "img/nrj.jpg",
         "logo_webp": "img/nrj.webp",
@@ -176,7 +176,7 @@
         "url_hi": "https://pub0202.101.ru:8443/stream/reg/mp3/128/region_energy_113"
     },
     "mvolna": {
-        "name": "Милицейская Волна-Катунь FM (Барнаул) 88.7",
+        "name": "4-Милицейская Волна-Катунь FM (Барнаул) 88.7",
         "site": "http://radiomv.ru/",
         "logo": "img/mvolna.jpg",
         "logo_webp": "img/mvolna.webp",
@@ -188,7 +188,7 @@
         "url_hi": "https://live.katun24.ru:8082/kfm_radio/tracks-a1/mono.m3u8"
     },
      "humor": {
-        "name": "Юмор FM (Барнаул) 89.2",
+        "name": "5-Юмор FM (Барнаул) 89.2",
         "site": "http://www.veseloeradio.ru/",
         "logo": "img/humor.jpg",
         "logo_webp": "img/humor.webp",
@@ -200,7 +200,7 @@
         "url_hi": "https://pub0202.101.ru:8443/stream/reg/mp3/128/region_humor_239"
     },
      "mayak": {
-        "name": "Радио Маяк (Барнаул) 101.0",
+        "name": "11-Радио Маяк (Барнаул) 101.0",
         "site": "https://radiomayak.ru/",
         "logo": "img/mayak.jpg",
         "logo_webp": "img/mayak.webp",
@@ -212,7 +212,7 @@
         "url_hi": "http://icecast.gtrk22.ru:8000/mayak.m3u"
      },
     "vesti": {
-        "name": "Вести FM (Барнаул) 101.5",
+        "name": "12-Вести FM (Барнаул) 101.5",
         "site": "https://radiovesti.ru/",
         "logo": "img/vesti.jpg",
         "logo_webp": "img/vesti.webp",
@@ -224,7 +224,7 @@
         "url_hi": "http://icecast.gtrk22.ru:8000/vesti.m3u"
     },
     "rrossii": {
-        "name": "Радио России (Барнаул) 103.4",
+        "name": "16-Радио России (Барнаул) 103.4",
         "site": "http://www.radiorus.ru/",
         "logo": "img/rrossii.jpg",
         "logo_webp": "img/rrossii.webp",
@@ -236,7 +236,7 @@
         "url_hi": "http://icecast.gtrk22.ru:8000/russia.m3u"
     },
     "kpravda": {
-        "name": "Комсомольская Правда (Барнаул) 106.8",
+        "name": "23-Комсомольская Правда (Барнаул) 106.8",
         "site": "https://www.kp.ru/radio/",
         "logo": "img/kpravda.jpg",
         "logo_webp": "img/kpravda.webp",
