@@ -1,4 +1,4 @@
-{	 "mir": {
+{	"mir": {
         "name": "2-Радио МИР (Бийск) 90.8",
         "site": "http://radiomir.fm/",
         "logo": "img/mir.jpg",
@@ -10,7 +10,7 @@
         "json_delay": "25",
         "url_hi": "https://cast.fmprod.ru/mir_bsk"
 	},
-     "rrd": {
+	"rrd": {
         "name": "3-Радио родных дорог (Бийск) 100.9",
         "site": "http://www.radiord.ru/",
         "logo": "img/rrd.jpg",
@@ -22,7 +22,7 @@
         "json_delay": "25",
         "url_hi": "https://cast.fmprod.ru/rrd_bsk"
 	},
-		"rusradio": {
+	"rusradio": {
         "name": "4-Русское радио (Бийск) 101.3",
         "site": "http://rusradio.ru/",
         "logo": "img/rusradio.jpg",
@@ -33,8 +33,8 @@
         "meta": "meta",
         "json_delay": "20",
         "url_hi": "https://cast.fmprod.ru/rus_bsk"
-    },
-		"avtoradio": {
+	},
+	"avtoradio": {
         "name": "5-Авторадио (Бийск) 101.9",
         "site": "http://www.avtoradio.ru/",
         "logo": "img/avtoradio.jpg",
@@ -57,7 +57,7 @@
         "meta": "meta",
         "json_delay": "25",
         "url_hi": "https://cast.fmprod.ru/europa_bsk"
-     },
+	},
 	"humor": {
         "name": "7-Юмор FM (Бийск) 103.1",
         "site": "http://www.veseloeradio.ru/",
@@ -70,7 +70,7 @@
         "json_delay": "25",
         "url_hi": "https://cast.fmprod.ru/humor_bsk"
 	},
-    "retro": {
+	"retro": {
         "name": "8-Ретро FM (Бийск) 103.7",
         "site": "http://retrofm.ru/",
         "logo": "img/retro.jpg",
@@ -81,8 +81,8 @@
         "meta": "meta",
         "json_delay": "25",
         "url_hi": "https://cast.fmprod.ru/retro_bsk"
-    },
-	   "sibir": {
+	},
+	"sibir": {
         "name": "10-Радио Сибирь (Бийск) 105.3",
         "site": "",
         "logo": "img/sibir.jpg",
@@ -91,8 +91,8 @@
         "category": "reg",
         "partner": "1",
         "url_hi": "http://stream-2.radiosibir.ru:8090/biysk_RS"
-    },
-		"love": {
+	},
+	"love": {
         "name": "11-Love Radio (Бийск) 105.7",
         "site": "http:/loveradio.ru/",
         "logo": "img/love.jpg",
@@ -103,8 +103,8 @@
         "meta": "meta",
         "json_delay": "25",
         "url_hi": "https://cast.fmprod.ru/love_bsk"
-     },
-    "dorozhnoe": {
+	},
+	"dorozhnoe": {
         "name": "12-Дорожное радио (Бийск) 106.2",
         "site": "https://dorognoe.ru/",
         "logo": "img/dorozhnoe.jpg",
@@ -115,7 +115,7 @@
         "meta": "meta",
         "json_delay": "25",
         "url_hi": "https://cast.fmprod.ru/dorojnoe_bsk"
-    },
+	},
 	"dfm": {
         "name": "13-DFM (Бийск) 106.6",
         "site": "http://www.dfm.ru/",
@@ -127,8 +127,8 @@
         "meta": "meta",
         "json_delay": "18",
         "url_hi": "https://cast.fmprod.ru/dfm_bsk"
-    },  
-		"dacha": {
+	},  
+	"dacha": {
         "name": "15-Радио Дача (Бийск) 107.8",
         "site": "https://bestfm.ru/",
         "logo": "img/dacha.jpg",
@@ -139,5 +139,5 @@
         "meta": "meta",
         "json_delay": "32",
         "url_hi": "https://cast.fmprod.ru/dacha_bsk"
-    }
+	}
 }
