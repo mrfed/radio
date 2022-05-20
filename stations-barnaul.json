@@ -94,7 +94,7 @@
         "url_hi": "https://cast.fmprod.ru/europa_brn"
      },
 	"rusradio": {
-        "name": "Русское Радио",
+        "name": "Русское Радио (Барнаул)",
         "site": "http://rusradio.ru/",
         "logo": "img/rusradio.jpg",
         "logo_webp": "img/rusradio.webp",
@@ -106,7 +106,7 @@
         "url_hi": "https://cast.fmprod.ru/rus_brn"
     },
     "mir": {
-        "name": "Радио МИР",
+        "name": "Радио МИР (Барнаул)",
         "site": "http://radiomir.fm/",
         "logo": "img/mir.jpg",
         "logo_webp": "img/mir.webp",
@@ -118,7 +118,7 @@
         "url_hi": "https://cast.fmprod.ru/mir_brn"
     },
     "retro": {
-        "name": "Ретро FM",
+        "name": "Ретро FM (Барнаул)",
         "site": "http://retrofm.ru/",
         "logo": "img/retro.jpg",
         "logo_webp": "img/retro.webp",
@@ -130,7 +130,7 @@
         "url_hi": "https://cast.fmprod.ru/retro_brn"
     },
     "novoe": {
-        "name": "Новое Радио",
+        "name": "Новое Радио (Барнаул)",
         "site": "http://newradio.ru/",
         "logo": "img/novoe.jpg",
         "logo_webp": "img/novoe.webp",
@@ -142,7 +142,7 @@
         "url_hi": "https://cast.fmprod.ru/novoe_brn"
     },
      "love": {
-        "name": "Love Radio",
+        "name": "Love Radio (Барнаул)",
         "site": "http:/loveradio.ru/",
         "logo": "img/love.jpg",
         "logo_webp": "img/love.webp",
