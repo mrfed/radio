@@ -247,5 +247,18 @@
         "json_delay": "25",
         "url_hi": "https://kpradio.hostingradio.ru:8003/barnaul.radiokp128.mp3"
     },
+	"record": {
+        "name": "Радио Record (Омск)",
+        "site": "https://www.kp.ru/radio/",
+        "logo": "img/record.webp",
+        "logo_webp": "img/record.webp",
+        "position": "24",
+        "category": "fed",
+        "partner": "0",
+        "meta": "meta",
+        "json_delay": "25",
+        "url_hi": "http://www.omskfm.ru:8000/1044-128.mp3
+"
+    },
      }
 }
