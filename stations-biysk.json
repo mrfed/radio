@@ -139,5 +139,17 @@
         "meta": "meta",
         "json_delay": "32",
         "url_hi": "https://cast.fmprod.ru/dacha_bsk"
+	},  
+	"record": {
+        "name": "Радио Record (Красноярск)",
+        "site": "http://www.radiorecord.ru/",
+        "logo": "img/record.jpg",
+        "logo_webp": "img/record.webp",
+        "position": "24",
+        "category": "fed",
+        "partner": "0",
+        "meta": "meta",
+        "json_delay": "25",
+	"url_hi": "http://online-2.gkvr.ru:8000/record_kra_128.aac"
 	}
 }
