@@ -162,8 +162,8 @@
         "category": "reg",
         "partner": "1",
         "url_hi": "http://icecast.gtrk22.ru:8000/heartfm"
-    },
- "nrj": {
+	},
+ 	"nrj": {
         "name": "1-ENERGY (Барнаул) 87.5",
         "site": "http://www.energyfm.ru/",
         "logo": "img/nrj.jpg",
@@ -174,8 +174,7 @@
         "meta": "meta",
         "json_delay": "28",
         "url_hi": "https://pub0202.101.ru:8443/stream/reg/mp3/128/region_energy_113"
-    },
-	"nrj": {
+	},
 	"dorozhnoe": {
         "name": "Дорожное радио",
         "site": "https://dorognoe.ru/",
