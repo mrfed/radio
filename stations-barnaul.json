@@ -175,6 +175,19 @@
         "json_delay": "28",
         "url_hi": "https://pub0202.101.ru:8443/stream/reg/mp3/128/region_energy_113"
     },
+	"nrj": {
+	"dorozhnoe": {
+        "name": "Дорожное радио",
+        "site": "https://dorognoe.ru/",
+        "logo": "img/dorozhnoe.jpg",
+        "logo_webp": "img/dorozhnoe.webp"
+	"position": "212",
+        "category": "fed",
+        "partner": "0",
+        "meta": "meta",
+        "json_delay": "28",
+        "url_hi": "http://free.radioheart.ru:8000/RH64978"
+    },
     "mvolna": {
         "name": "4-Милицейская Волна-Катунь FM (Барнаул) 88.7",
         "site": "http://radiomv.ru/",
