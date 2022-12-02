@@ -271,5 +271,17 @@
         "json_delay": "25",
         "url_hi": "http://www.omskfm.ru:8000/1044-128.mp3"
     },
+  	"relax": {
+        "name": "Relax FM (Region)",
+        "site": "http://relax-fm.ru/",
+        "logo": "img/relax.jpg",
+        "logo_webp": "img/relax.webp",
+        "position": "25",
+        "category": "fed",
+        "partner": "0",
+        "meta": "meta",
+        "json_delay": "38",
+        "url_hi": "http://ic7.101.ru:8000/s40"
+    },
      }
 }
