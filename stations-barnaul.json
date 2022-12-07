@@ -283,5 +283,16 @@
         "json_delay": "38",
         "url_hi": "http://ic7.101.ru:8000/s40"
     },
+	"echo1": {
+        "name": "Радио Эхо",
+        "site": "https://echofm.online/",
+		"logo": "https://echofm.online/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.69ea7ae1.png&w=96&q=85",
+		"position": "26",
+        "category": "int",
+        "partner": "1",
+        "json_delay": "25",
+        "url": "https://i1.echofm.online:8443/stream"
+    },	
+
      }
 }
