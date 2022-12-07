@@ -282,15 +282,5 @@
         "meta": "meta",
         "json_delay": "38",
         "url_hi": "http://ic7.101.ru:8000/s40"
-    },
-	"echo1": {
-        "name": "Радио Эхо",
-        "site": "https://echofm.online/",
-	"logo": "https://upload.wikimedia.org/wikipedia/commons/9/95/Echo_logo.png",
-	"position": "26",
-        "category": "int",
-        "partner": "1",
-        "json_delay": "25",
-        "url_hi": "https://i1.echofm.online:8443/stream"
-     }
+       }
 }
