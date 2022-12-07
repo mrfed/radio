@@ -286,7 +286,7 @@
 	"echo1": {
         "name": "Радио Эхо",
         "site": "https://echofm.online/",
-	"logo": "https://echofm.online/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.69ea7ae1.png&w=96&q=85",
+	"logo": "https://upload.wikimedia.org/wikipedia/commons/9/95/Echo_logo.png",
 	"position": "26",
         "category": "int",
         "partner": "1",
